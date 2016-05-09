@@ -6,5 +6,5 @@
     }
     define("FAV_FOOD", $_SERVER["fav_food_str"]);
     define("FAV_MUSIC", $_SERVER["fav_music_str"]);
-    print "My fav food is ".FAV_FOOD." and my fav music is ".FAV_MUSIC;
+    print "My fav food is ".FAV_FOOD." and my NEW fav music is ".FAV_MUSIC;
 ?>
